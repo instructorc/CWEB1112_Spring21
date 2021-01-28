@@ -1,0 +1,13 @@
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\bin\Debug\netcoreapp3.1\console_activity1.exe
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\bin\Debug\netcoreapp3.1\console_activity1.deps.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\bin\Debug\netcoreapp3.1\console_activity1.runtimeconfig.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\bin\Debug\netcoreapp3.1\console_activity1.runtimeconfig.dev.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\bin\Debug\netcoreapp3.1\console_activity1.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\bin\Debug\netcoreapp3.1\console_activity1.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\obj\Debug\netcoreapp3.1\console_activity1.csprojAssemblyReference.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\obj\Debug\netcoreapp3.1\console_activity1.AssemblyInfoInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\obj\Debug\netcoreapp3.1\console_activity1.AssemblyInfo.cs
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\obj\Debug\netcoreapp3.1\console_activity1.csproj.CoreCompileInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\obj\Debug\netcoreapp3.1\console_activity1.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\obj\Debug\netcoreapp3.1\console_activity1.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\console_activity1\obj\Debug\netcoreapp3.1\console_activity1.genruntimeconfig.cache
