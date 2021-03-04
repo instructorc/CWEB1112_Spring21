@@ -1,0 +1,15 @@
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\obj\Debug\netcoreapp3.1\testpack.csprojAssemblyReference.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\obj\Debug\netcoreapp3.1\testpack.AssemblyInfoInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\obj\Debug\netcoreapp3.1\testpack.AssemblyInfo.cs
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\obj\Debug\netcoreapp3.1\testpack.csproj.CoreCompileInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\bin\Debug\netcoreapp3.1\testpack.exe
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\bin\Debug\netcoreapp3.1\testpack.deps.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\bin\Debug\netcoreapp3.1\testpack.runtimeconfig.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\bin\Debug\netcoreapp3.1\testpack.runtimeconfig.dev.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\bin\Debug\netcoreapp3.1\testpack.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\bin\Debug\netcoreapp3.1\testpack.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\obj\Debug\netcoreapp3.1\testpack.csproj.CopyComplete
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\obj\Debug\netcoreapp3.1\testpack.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\obj\Debug\netcoreapp3.1\testpack.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\testpack\obj\Debug\netcoreapp3.1\testpack.genruntimeconfig.cache

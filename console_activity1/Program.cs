@@ -1,4 +1,6 @@
 ﻿using System;
+using ConsoleTables;
+
 
 namespace console_activity1
 {
@@ -6,15 +8,12 @@ namespace console_activity1
     {
         static void Main(string[] args)
         {
-            string favNum;
-            
-            Console.WriteLine("Enter your your favorite number ");
-            favNum = Console.ReadLine();
-            double favNumConverted = Double.Parse(favNum);
-            Console.WriteLine(favNum.GetType());
-            Console.WriteLine(favNumConverted.GetType());
-            Console.WriteLine("Yoru Favorite number is: {0}", favNumConverted);
-            Console.BackgroundColor = ConsoleColor.Black;
+            var table = new ConsoleTable("Column One", "Column Two", "three");
+                table.AddRow(1, 2, 3)
+                    .AddRow("this line should be longer", "yes it is", "oh");
+
+                table.Write();
+                Console.WriteLine();
         }
     }
 }

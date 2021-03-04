@@ -1,0 +1,13 @@
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\obj\Debug\netcoreapp3.1\activity6_calendar.csprojAssemblyReference.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\obj\Debug\netcoreapp3.1\activity6_calendar.AssemblyInfoInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\obj\Debug\netcoreapp3.1\activity6_calendar.AssemblyInfo.cs
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\obj\Debug\netcoreapp3.1\activity6_calendar.csproj.CoreCompileInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\bin\Debug\netcoreapp3.1\activity6_calendar.exe
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\bin\Debug\netcoreapp3.1\activity6_calendar.deps.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\bin\Debug\netcoreapp3.1\activity6_calendar.runtimeconfig.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\bin\Debug\netcoreapp3.1\activity6_calendar.runtimeconfig.dev.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\bin\Debug\netcoreapp3.1\activity6_calendar.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\bin\Debug\netcoreapp3.1\activity6_calendar.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\obj\Debug\netcoreapp3.1\activity6_calendar.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\obj\Debug\netcoreapp3.1\activity6_calendar.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\activity6_calendar\obj\Debug\netcoreapp3.1\activity6_calendar.genruntimeconfig.cache

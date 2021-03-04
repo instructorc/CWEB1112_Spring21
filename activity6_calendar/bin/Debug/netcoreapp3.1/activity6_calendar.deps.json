@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "activity6_calendar/1.0.0": {
+        "runtime": {
+          "activity6_calendar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "activity6_calendar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
