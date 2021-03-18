@@ -1,0 +1,13 @@
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\bin\Debug\netcoreapp3.1\ds_activity_three.exe
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\bin\Debug\netcoreapp3.1\ds_activity_three.deps.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\bin\Debug\netcoreapp3.1\ds_activity_three.runtimeconfig.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\bin\Debug\netcoreapp3.1\ds_activity_three.runtimeconfig.dev.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\bin\Debug\netcoreapp3.1\ds_activity_three.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\bin\Debug\netcoreapp3.1\ds_activity_three.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\obj\Debug\netcoreapp3.1\ds_activity_three.csprojAssemblyReference.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\obj\Debug\netcoreapp3.1\ds_activity_three.AssemblyInfoInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\obj\Debug\netcoreapp3.1\ds_activity_three.AssemblyInfo.cs
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\obj\Debug\netcoreapp3.1\ds_activity_three.csproj.CoreCompileInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\obj\Debug\netcoreapp3.1\ds_activity_three.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\obj\Debug\netcoreapp3.1\ds_activity_three.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\ds_activity_three\obj\Debug\netcoreapp3.1\ds_activity_three.genruntimeconfig.cache
