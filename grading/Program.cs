@@ -4,58 +4,73 @@ namespace grading
 {
     class Program
     {
-        static void Main(string[] args)
+       static void Main(string[] args)
         {
-            //DECLARATIONS
-            string userName, dogName, dogBreed;
-            int dogAge, numOfWeeks, dogWeight;
+            string customerName, woodName = "PINE", letterColor;
+            int orderNum, numOfCharacters,  woodType, characterOverage, colourOfCharacters;
+            string EXIT = "EXIT";
             double total =0;
-            const int WEIGHT_LIMIT = 15, WEIGHT_LIMIT_THIRTYONE = 31, WEIGHT_LIMIT_EIGHT = 80, SEVENTY_FIVE_FEE = 75, FIFTY_FIVE_FEE = 55, ONEZEROFIVE_FEE = 105, ONETWENTYFIVE_FEE = 125;
-            string EXIT = "EXIT"; //Sentinal Value
+            
+            const double MIN_CHARGE=30.00, GOLD_LEAF = 12, OAK_TYPE = 15.00, CHARACTER_CHARGE = 3.00;
 
-           Console.WriteLine("Welcome to the Minneapolis Dog Boarding Company! Please enter your username: ");
-            userName = Console.ReadLine(); //Primer
+            Console.WriteLine("Welcome! Please enter your name. ");
+            customerName = Console.ReadLine();
 
-            while(userName != EXIT){
-                Console.WriteLine($"Nice to have you back {userName}! What is your dog's name?");
-                dogName = Console.ReadLine();
-                Console.WriteLine($"Okay thank you and what is {dogName}'s breed?");
-                dogBreed = Console.ReadLine();
-                Console.WriteLine($"What is {dogName}'s age?");
-                dogAge = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine($"And how many weeks will {dogName} be with us?");
-                numOfWeeks = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine($"Our last question for you is how much does {dogName} weigh?");
-                dogWeight = Convert.ToInt32(Console.ReadLine());
-                if (dogWeight < WEIGHT_LIMIT){
-                    total = 55 * numOfWeeks;
+            while(customerName != EXIT){
+                Console.WriteLine($"This minimum charge for a sign is {MIN_CHARGE} dollars. There is no additional charge for pine, but an extra $15 for oak.");
+                Console.WriteLine("What do you want your sign made out of? Enter 1 for Pine and 2 for oak");
+                woodType= Int32.Parse(Console.ReadLine());
 
+                Console.WriteLine("The 1st six characters are included in the mimimum charge. There is a 3 dollar charge for each additional character.");
+                Console.WriteLine("How man characters do you want?");
+                numOfCharacters = Convert.ToInt32(Console.ReadLine());
+
+
+                Console.WriteLine("Select color of sign enter 1 for black, 2 for white, or  3 gold-leaf lettering. There's an additional charge of $12 for gold-leaf lettering.");
+                colourOfCharacters = Int32.Parse(Console.ReadLine());
+
+                total = MIN_CHARGE;
+                if(woodType == 2){
+                    woodName = "OAK";
+                    total += OAK_TYPE;
                 }
-                else{
-                    if (dogWeight < WEIGHT_LIMIT_THIRTYONE){
-                        total = 75 * numOfWeeks;
-                        
-                    }else
-                        if (dogWeight < WEIGHT_LIMIT_EIGHT){
-                            total = 105 * numOfWeeks;
-                        
-                        }   
-                    }
-                    if(total > 125){
-                        total = total *(1 + .02);
-                        Console.WriteLine($"The total cost for {dogName}'s care will be {total}!  This is your total with a 2% discount");
-                    }else{
-                        Console.WriteLine($"The total cost for {dogName}'s care will be {total}!");
-                    }
+                if(numOfCharacters >=  6){
+                    characterOverage = numOfCharacters - 6;
+                    total += CHARACTER_CHARGE * characterOverage;
+                }
 
-                    Console.WriteLine("To enter a new cost evaluation enter a name or type in EXIT to leave program.");
-                    userName = Console.ReadLine(); //Primer
+                if(colourOfCharacters == 3){
+                    total += GOLD_LEAF;
+                }
 
-                }//End of while Loop
-                Console.WriteLine("Program has ended!");
-            }//End of main method
-    
+                //Determine Color
+                if(colourOfCharacters == 1){
+                    letterColor = "Black";
+                }else if(colourOfCharacters == 2){
+                    letterColor = "White";
+                }else{
+                    letterColor = "Gold-Leaf";
+                }
 
+
+                //OUTPUT STATEMENT
+                if(woodType == 1 && colourOfCharacters == 3 && numOfCharacters > 10){
+                    Console.WriteLine($"Order Number:\t {customerName}\nWoodType:\t {woodName}\nColor Of Characters:\t {letterColor}");
+                }else{
+                    Console.WriteLine("YOUR QOUTE HAS BEEN EMAILED");
+                }
+
+                //PRIMER
+                 Console.WriteLine("To determine another sign cost, Please enter your name. or enter EXIT to end program ");
+                customerName = Console.ReadLine();
+
+          
+
+                
+            } 
+            Console.WriteLine("Thanks for using Noah Charles Sign Cost Calculator application");
         }
+   
+    } 
     
 }
