@@ -1,0 +1,13 @@
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\bin\Debug\netcoreapp3.1\candy_program.exe
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\bin\Debug\netcoreapp3.1\candy_program.deps.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\bin\Debug\netcoreapp3.1\candy_program.runtimeconfig.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\bin\Debug\netcoreapp3.1\candy_program.runtimeconfig.dev.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\bin\Debug\netcoreapp3.1\candy_program.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\bin\Debug\netcoreapp3.1\candy_program.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\obj\Debug\netcoreapp3.1\candy_program.csprojAssemblyReference.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\obj\Debug\netcoreapp3.1\candy_program.AssemblyInfoInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\obj\Debug\netcoreapp3.1\candy_program.AssemblyInfo.cs
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\obj\Debug\netcoreapp3.1\candy_program.csproj.CoreCompileInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\obj\Debug\netcoreapp3.1\candy_program.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\obj\Debug\netcoreapp3.1\candy_program.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\candy_program\obj\Debug\netcoreapp3.1\candy_program.genruntimeconfig.cache

@@ -12,9 +12,8 @@ namespace grading
             double total =0;
             
             const double MIN_CHARGE=30.00, GOLD_LEAF = 12, OAK_TYPE = 15.00, CHARACTER_CHARGE = 3.00;
-
-            Console.WriteLine("Welcome! Please enter your name. ");
-            customerName = Console.ReadLine();
+            Console.WriteLine("Welcome, this program will calculate the cost of your sign");
+            customerName = Primer();
 
             while(customerName != EXIT){
                 Console.WriteLine($"This minimum charge for a sign is {MIN_CHARGE} dollars. There is no additional charge for pine, but an extra $15 for oak.");
@@ -61,14 +60,19 @@ namespace grading
                 }
 
                 //PRIMER
-                 Console.WriteLine("To determine another sign cost, Please enter your name. or enter EXIT to end program ");
-                customerName = Console.ReadLine();
-
-          
-
-                
+                customerName = Primer();
+ 
             } 
             Console.WriteLine("Thanks for using Noah Charles Sign Cost Calculator application");
+        }
+
+        //Defining Primer Method
+        public static string Primer(){
+            //Local variable name
+            string name;
+            Console.WriteLine("Please enter a customer name or enter EXIT to end program ");
+            name = Console.ReadLine();
+            return name;
         }
    
     } 
