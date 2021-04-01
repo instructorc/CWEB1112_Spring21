@@ -67,7 +67,7 @@ namespace grading
         }
 
         //Defining Primer Method
-        public static string Primer(){
+         static string Primer(){
             //Local variable name
             string name;
             Console.WriteLine("Please enter a customer name or enter EXIT to end program ");
