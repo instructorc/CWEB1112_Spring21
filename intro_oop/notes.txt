@@ -1,0 +1,19 @@
+RENTER
+    - status: prospective || tenent  --Attribute
+    - name: 
+    - email:
+    - move-date:
+    - preferred region:
+    - preferred bed_count:
+    - preferred bath_count:
+
+APARTMENT
+    - apart_name:
+    - apart_address:
+    - apart_floor_count:
+    - apart_region:  
+    - apart_estimate_range_one_bed:
+    - apart_estimate_range_two_bed:
+    - apart_estimate_range_three_bed:
+
+

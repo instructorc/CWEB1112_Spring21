@@ -1,0 +1,13 @@
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\bin\Debug\netcoreapp3.1\intro_oop.exe
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\bin\Debug\netcoreapp3.1\intro_oop.deps.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\bin\Debug\netcoreapp3.1\intro_oop.runtimeconfig.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\bin\Debug\netcoreapp3.1\intro_oop.runtimeconfig.dev.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\bin\Debug\netcoreapp3.1\intro_oop.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\bin\Debug\netcoreapp3.1\intro_oop.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\obj\Debug\netcoreapp3.1\intro_oop.csprojAssemblyReference.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\obj\Debug\netcoreapp3.1\intro_oop.AssemblyInfoInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\obj\Debug\netcoreapp3.1\intro_oop.AssemblyInfo.cs
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\obj\Debug\netcoreapp3.1\intro_oop.csproj.CoreCompileInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\obj\Debug\netcoreapp3.1\intro_oop.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\obj\Debug\netcoreapp3.1\intro_oop.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\intro_oop\obj\Debug\netcoreapp3.1\intro_oop.genruntimeconfig.cache
