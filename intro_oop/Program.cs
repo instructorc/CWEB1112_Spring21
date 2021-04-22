@@ -6,10 +6,26 @@ namespace intro_oop
     {
         static void Main(string[] args)
         {
-            string name, status, region;
+            string name, status, email;
+            Renter aRenter = new Renter();
+            Console.WriteLine($"For Object enter name ");
+            aRenter.Name = Console.ReadLine();
 
+            Console.WriteLine($"For Object enter renter status **Prospective** or Current Renter** ");
+            aRenter.Status = Console.ReadLine();
+
+            Console.WriteLine($"For Object enter renter email ");
+            aRenter.Email = Console.ReadLine();
+            
+ 
+
+
+            Console.WriteLine(aRenter);
+
+
+            
             //Declaring an array of objects
-            Renter [] renters = new Renter[3];
+            /*Renter [] renters = new Renter[3];
             int x = 0;
             while(x < renters.Length){
 
@@ -21,7 +37,7 @@ namespace intro_oop
 
                 Console.WriteLine($"For Object instance {(x+1)} enter renter preferred region East, West or North ");
                 region = Console.ReadLine();
-
+            
                 //Instantiating each array object
                 renters[x] = new Renter(status, name, region);
 
@@ -31,7 +47,7 @@ namespace intro_oop
 
             for(var i = 0; i < renters.Length; i++){
                 System.Console.WriteLine(renters[i]);
-            }
+            }*/
   
 
        
@@ -50,15 +66,18 @@ RENTER
     class Renter
     {
         //Attributes
-        string status;
-        string name;
-        string email;
-        string moveDate;
-        string rent_estimate;
+        public  string Status {get; set;}
+        public string Name {get; set;}
+        public string Email {get; set;}
+        private string moveDate;
+        private string rent_estimate;
 
-        string preferredRegion;
-        int preferredBedCount;
-        int preferredBathCount;
+        private string preferredRegion;
+        private int preferredBedCount;
+        private int preferredBathCount;
+
+
+
 
         //Default Constructor
         public Renter(){
@@ -67,8 +86,8 @@ RENTER
 
         //Override the Default Constructor
         public Renter(string aStatus, string aName, string preferredRegion){
-            this.status = aStatus;
-            this.name = aName;
+            this.Status = aStatus;
+            this.Name = aName;
             this.preferredRegion = preferredRegion;
             getEstimatedRentRange();
         }
@@ -93,7 +112,7 @@ RENTER
         //ToString
         public override string ToString()
         {
-            return String.Format($"Name: {name} Status: {status} Preferred Region: {preferredRegion}  Rent Estimate: {rent_estimate}");
+            return String.Format($"Name: {Name} Status: {Status}");
         }
     }
 
