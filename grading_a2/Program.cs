@@ -6,70 +6,78 @@ namespace grading_a2
     {
         static void Main(string[] args)
         {
-             string[] deptNames = {"Personnel", "Marketing", "Information Technology", 
-            "Computer Science", "Sales", "Legal", "Accounting"};
-            string NAME = "";
-            string EXIT = "EXIT";
-            int dept = 0;
-            double hourlyRate, numOfHours;
-            double SALARY;
-            double total1 = 0, total2 = 0, total3 = 0, total4 = 0, total5 = 0, total6 = 0, total7 = 0;
-            
+            //Global Declarations
+            int num_days;
+            double  total;
+            //char code;
+            string code = "No Service";
+        
+            //initialising 
+           num_days = welcome();
+           Console.WriteLine("Will there be any add-on services? Enter Y for yes or N for no.");
+            if(Console.ReadLine().ToUpper() == "Y"){
+                code = getCode();
+               total = computeRate(num_days, code);
+            }else{
+                total = computeRate(num_days);
 
-            
-            Console.WriteLine("Welcome to the payroll generator!");
-            Console.WriteLine("Please enter the employee's name:");
-            NAME = Console.ReadLine();
-            while(NAME != EXIT){
-                Console.WriteLine($"What is {NAME}'s department number?");
-                dept = Convert.ToInt32(Console.ReadLine());
-                if(dept <= deptNames.Length){
-                    dept = dept - 1;
-                    Console.WriteLine($"What is {NAME}'s hourly rate?");
-                    hourlyRate = Convert.ToDouble(Console.ReadLine());
-                    Console.WriteLine($"How many hours did {NAME} work?");
-                    numOfHours = Convert.ToDouble(Console.ReadLine());
-                    SALARY = hourlyRate * numOfHours;
-                    Console.WriteLine($"Employee Name: {NAME}");
-                    Console.WriteLine($"Employee Department: {deptNames[dept]}");
-                    Console.WriteLine($"Employee Salary: {SALARY}");
-                    if((dept + 1) == 1){
-                        total1 = total1 + SALARY;
-                    }
-                    if((dept + 1) == 2){
-                        total2 = total2 + SALARY;
-                    }
-                    if((dept + 1) == 3){
-                        total3 = total3 + SALARY;
-                    }
-                    if((dept + 1) == 4){
-                        total4 = total4 + SALARY;
-                    }
-                    if((dept + 1) == 5){
-                        total5 = total5 + SALARY;
-                    }
-                    if((dept + 1) == 6){
-                        total6 = total6 + SALARY;
-                    }
-                    if((dept + 1) == 7){
-                        total7 = total7 + SALARY;
-                    }
-                    Console.WriteLine("Enter another name to continue, or EXIT to generate report.");
-                    NAME = Console.ReadLine();
-
-
-                }else{
-                    Console.WriteLine("Department number not found. Please Enter a number between 1 and 7.");
-                }
             }
-                Console.WriteLine($"Personnel Payroll: {total1}");
-                Console.WriteLine($"Marketing Payroll: {total2}");
-                Console.WriteLine($"Information Technology Payroll: {total3}");
-                Console.WriteLine($"Computer Services Payroll: {total4}");
-                Console.WriteLine($"Sales Payroll: {total5}");
-                Console.WriteLine($"Legal Payroll: {total6}");
-                Console.WriteLine($"Accounting Payroll: {total7}");
-                
+            conclude(num_days, code, total);
+            
+                                    
+        }//end main method
+
+        static int welcome(){
+            int days; //local to method
+             Console.WriteLine("Welcome! This program will have you input the number of days your pet will be staying with us.");
+             Console.WriteLine("Please enter the number of days your pet will stay with us. ");
+             days = Convert.ToInt32(Console.ReadLine());
+             return days;
+        }
+        static string getCode(){
+            string code;
+            Console.WriteLine("Please enter a Code:  A for bathing and grooming or C for only bathing ");
+            code = Console.ReadLine();
+            code = checkCode(code);
+
+            return code;
+        }
+
+        static string checkCode(string code){
+            code = code.ToUpper();
+            while(code != "A" && code != "C"){
+                Console.WriteLine("Invalid Entry - Please enter A for bathing and grooming or C for only bathing");
+                code = Console.ReadLine();
+                code = code.ToUpper();
+            }
+
+            return code;
+        }
+
+        //Overloaded method with one argument
+        static double computeRate(int num_days)
+        {
+            double  RATE = 75.00;
+
+            //logic for determining the total
+            return num_days * RATE;
+            
+        }
+
+        //Overloaded method with two arguments
+        static double computeRate( double num_days, string code)
+        {
+            double CODE_A = 169.00 , CODE_C= 112.00;
+            if(code =="A"){
+                return CODE_A * num_days;
+            }else{
+                return CODE_C * num_days;
+            }
+
+        }//End of computRate method with two parameters defined
+
+        static void conclude(int days, string aCode, double aTotal){
+            System.Console.WriteLine($"Total amount of days:\t {days} \n Service Code:\t{aCode} \n Total for Stay: {aTotal.ToString("c")}");
         }
     }
 }

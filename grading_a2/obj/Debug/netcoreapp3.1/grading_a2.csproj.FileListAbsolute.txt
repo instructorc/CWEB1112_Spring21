@@ -1,0 +1,13 @@
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\bin\Debug\netcoreapp3.1\grading_a2.exe
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\bin\Debug\netcoreapp3.1\grading_a2.deps.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\bin\Debug\netcoreapp3.1\grading_a2.runtimeconfig.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\bin\Debug\netcoreapp3.1\grading_a2.runtimeconfig.dev.json
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\bin\Debug\netcoreapp3.1\grading_a2.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\bin\Debug\netcoreapp3.1\grading_a2.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\obj\Debug\netcoreapp3.1\grading_a2.csprojAssemblyReference.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\obj\Debug\netcoreapp3.1\grading_a2.AssemblyInfoInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\obj\Debug\netcoreapp3.1\grading_a2.AssemblyInfo.cs
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\obj\Debug\netcoreapp3.1\grading_a2.csproj.CoreCompileInputs.cache
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\obj\Debug\netcoreapp3.1\grading_a2.dll
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\obj\Debug\netcoreapp3.1\grading_a2.pdb
+C:\Users\fulchr\google_prof_fulton\Dunwoody\CWEB1111_1112\Spring2021\class_ex\grading_a2\obj\Debug\netcoreapp3.1\grading_a2.genruntimeconfig.cache
